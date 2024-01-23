@@ -1,0 +1,56 @@
+.addmain{
+    padding: 150px 0;
+    background-color: burlywood;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    .form{
+        width: 40%;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        .img{
+            width: 30%;
+            img{
+                width: 100%;
+                height: 100%;
+            }
+        }
+        button{
+            width: 20%;
+        }
+        .reqimg{
+            color: red;
+            display: none ;
+        }
+        .reqname{
+            color: red;
+            display: none ; 
+        }
+        .reqdesc{
+            color: red;
+            display: none ; 
+        }
+        .reqpric{
+            color: red;
+            display: none ; 
+        }
+    }
+    
+}
+.table{
+        background-color: burlywood;
+        width: 60%;
+        padding: 20px 0;
+        display: flex;
+        align-items: center;
+        justify-content: center; 
+        table{
+            width: 70%;
+        }
+        table td,th,tr{
+            border: 1px solid black;
+            
+        }
+    }

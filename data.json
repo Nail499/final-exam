@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "image": "./assets/img/item-02.jpg",
+      "name": "Herschel supply co 25l",
+      "price": "$75"
+    },
+    {
+      "id": 2,
+      "image": "./assets/img/item-03.jpg",
+      "name": "Denim Jacket Blue",
+      "price": "$92.50"
+    },
+    {
+      "id": 3,
+      "image": "./assets/img/item-07.jpg",
+      "name": "Coach slim eason black",
+      "price": "$165.90"
+    },
+    {
+      "id": 4,
+      "image": "./assets/img/item-05.jpg",
+      "name": "Frayed denim shorts",
+      "price": "$15.90"
+    }
+  ]
+}
